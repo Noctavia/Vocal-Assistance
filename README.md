@@ -250,9 +250,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📞 Support
 
-- 🐛 **Issues** : [GitHub Issues](https://github.com/votre-repo/assistant-vocal/issues)
-- 💬 **Discussions** : [GitHub Discussions](https://github.com/votre-repo/assistant-vocal/discussions)
-- 📧 **Email** : votre.email@example.com
+- 📧 **Email** : vearathenicofrance@gmail.com
 
 ---
 
