@@ -1,0 +1,24 @@
+MIT License
+
+Copyright (c) 2025 Noctavia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+- Le logiciel est fourni **"tel quel"**, sans aucune garantie expresse ou implicite.
+- Aucune donnée utilisateur n’est envoyée vers le cloud par défaut (IA locale via Ollama, reconnaissance via Vosk).
+- L’usage des **commandes système puissantes** (verrouillage, redémarrage, extinction, etc.) doit être fait avec **prudence** et à vos propres risques.
+- Le respect des lois locales sur la **reconnaissance vocale**, la **collecte de données audio** et l'**interaction avec le système d'exploitation** est de la responsabilité de l'utilisateur.
+- Ce logiciel peut nécessiter des droits d'administration pour fonctionner pleinement.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+---
+
+Fait avec ❤️ en Python  
+Assistant Vocal de Bureau avec IA
